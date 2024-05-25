@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Cá Nhân - Lê Trần Phú</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="section">
+            <h1>Lê Trần Phú</h1>
+            <p>Nhân viên văn phòng</p>
+        </header>
+        <section class="section">
+            <h2>Giới thiệu</h2>
+            <p>Chào mừng bạn đến với trang cá nhân của tôi. Tôi là Lê Trần Phú, một nhân viên văn phòng với sở thích đa dạng bao gồm thể thao, thể thao điện tử, câu cá và đọc sách. Tôi có chuyên môn trong lĩnh vực quản lý nhân sự.</p>
+        </section>
+        <section class="section">
+            <h2>Dự án tiêu biểu</h2>
+            <h3>Triển khai công tác dịch vụ bảo vệ</h3>
+            <p>Với hơn 16 năm kinh nghiệm trong dịch vụ bảo vệ, tôi đã triển khai công tác dịch vụ bảo vệ cho nhiều công ty, doanh nghiệp và xí nghiệp. Đội ngũ nhân viên của chúng tôi có chuyên môn và nghiệp vụ cao, được đào tạo liên tục và có nhiều kinh nghiệm. Chúng tôi cũng tổ chức khám sức khỏe định kỳ để đảm bảo an toàn sức khỏe cho cán bộ công nhân viên tại các công ty.</p>
+        </section>
+        <section class="section">
+            <h2>Liên hệ</h2>
+            <p>Email: <a href="mailto:letranphu.kiss@gmail.com">letranphu.kiss@gmail.com</a></p>
+            <p>Số điện thoại: <a href="tel:0986395831">0986.395.831</a></p>
+            <p>Facebook: <a href="https://www.facebook.com/letranphu.kiss/" target="_blank">facebook.com/letranphu.kiss</a></p>
+            <p>Zalo: 0986.395.831</p>
+        </section>
+    </div>
+</body>
+</html>
